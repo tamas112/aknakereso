@@ -1,0 +1,16 @@
+Z:\slo\Projects\1144_201003_Aknakereso\1144_201003_Aknakereso\bin\Debug\1144_201003_Aknakereso.exe.config
+Z:\slo\Projects\1144_201003_Aknakereso\1144_201003_Aknakereso\obj\Debug\1144_201003_Aknakereso.csprojResolveAssemblyReference.cache
+Z:\slo\Projects\1144_201003_Aknakereso\1144_201003_Aknakereso\bin\Debug\1144_201003_Aknakereso.exe
+Z:\slo\Projects\1144_201003_Aknakereso\1144_201003_Aknakereso\bin\Debug\1144_201003_Aknakereso.pdb
+Z:\slo\Projects\1144_201003_Aknakereso\1144_201003_Aknakereso\obj\Debug\1144_201003_Aknakereso.exe
+Z:\slo\Projects\1144_201003_Aknakereso\1144_201003_Aknakereso\obj\Debug\1144_201003_Aknakereso.pdb
+C:\Tamas\Jedlik\csharp\1144_201003_Aknakereso\1144_201003_Aknakereso\bin\Debug\1144_201003_Aknakereso.exe.config
+C:\Tamas\Jedlik\csharp\1144_201003_Aknakereso\1144_201003_Aknakereso\obj\Debug\1144_201003_Aknakereso.exe
+C:\Tamas\Jedlik\csharp\1144_201003_Aknakereso\1144_201003_Aknakereso\obj\Debug\1144_201003_Aknakereso.pdb
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_201003_Aknakereso\1144_201003_Aknakereso\bin\Debug\1144_201003_Aknakereso.exe.config
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_201003_Aknakereso\1144_201003_Aknakereso\bin\Debug\1144_201003_Aknakereso.exe
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_201003_Aknakereso\1144_201003_Aknakereso\bin\Debug\1144_201003_Aknakereso.pdb
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_201003_Aknakereso\1144_201003_Aknakereso\obj\Debug\1144_201003_Aknakereso.csprojAssemblyReference.cache
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_201003_Aknakereso\1144_201003_Aknakereso\obj\Debug\1144_201003_Aknakereso.csproj.CoreCompileInputs.cache
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_201003_Aknakereso\1144_201003_Aknakereso\obj\Debug\1144_201003_Aknakereso.exe
+\\HOME\Tamas-PC\Tamas\Jedlik\csharp\1144_201003_Aknakereso\1144_201003_Aknakereso\obj\Debug\1144_201003_Aknakereso.pdb
